@@ -1,0 +1,87 @@
+{
+    "app": {
+        "tagline": "Turn chores into achievements."
+    },
+    "user_profile": {
+        "total_points": "Total Points",
+        "level": "Level"
+    },
+    "task": {
+        "add_new": "Add New Task",
+        "title_label": "Title",
+        "title_placeholder": "e.g., Write a seminar paper...",
+        "due_date_label": "Due Date (optional)",
+        "due_date_placeholder": "Pick a date",
+        "priority_label": "Priority (optional)",
+        "priority_placeholder": "Select priority",
+        "add_button": "Add Task",
+        "analysing": "Analyzing...",
+        "points": "points",
+        "toggle_aria_label": "Mark \"{{title}}\" as {{status}}",
+        "status_complete": "complete",
+        "status_incomplete": "incomplete",
+        "more_options": "More options",
+        "delete": "Delete",
+        "added": {
+            "title": "Task added!",
+            "description": "\"{{title}}\" is on your list."
+        },
+        "completed": {
+            "title": "Good Job! 🎉",
+            "description": "You completed \"{{title}}\" and earned {{points}} points!"
+        },
+        "deleted": {
+            "title": "Task deleted."
+        }
+    },
+    "task_list": {
+        "title": "Task List",
+        "no_tasks_title": "No tasks!",
+        "no_tasks_description": "Add your first task to get started.",
+        "active": "Active",
+        "completed": "Completed"
+    },
+    "achievements": {
+        "progress": "Progress",
+        "title": "Achievements",
+        "none": "No unlocked achievements yet. Complete a task to get started!",
+        "unlocked": {
+            "title": "Achievement Unlocked! ✨"
+        },
+        "first_step": {
+            "name": "First Step",
+            "description": "Completed first task."
+        },
+        "serial_completer": {
+            "name": "Serial Completer",
+            "description": "Completed 5 tasks."
+        },
+        "marathoner": {
+            "name": "Marathoner",
+            "description": "Completed 25 tasks in total."
+        },
+        "planner": {
+            "name": "Planner",
+            "description": "Created 5 tasks with a deadline."
+        },
+        "priority_champion": {
+            "name": "Priority Champion",
+            "description": "Completed 5 high-priority tasks."
+        },
+        "master_of_productivity": {
+            "name": "Master of Productivity",
+            "description": "All tasks are completed!"
+        }
+    },
+    "priority": {
+        "low": "Low",
+        "medium": "Medium",
+        "high": "High"
+    },
+    "initial_tasks": {
+        "task1": "Create the first task",
+        "task2": "Buy milk",
+        "task3": "Write a seminar paper",
+        "task4": "Clean the desk"
+    }
+}

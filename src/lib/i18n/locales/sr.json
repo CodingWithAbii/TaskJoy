@@ -1,0 +1,87 @@
+{
+    "app": {
+        "tagline": "Pretvorite obaveze u dostignuća."
+    },
+    "user_profile": {
+        "total_points": "Ukupno bodova",
+        "level": "Nivo"
+    },
+    "task": {
+        "add_new": "Dodaj novi zadatak",
+        "title_label": "Naslov",
+        "title_placeholder": "Npr. Napisati seminarski rad...",
+        "due_date_label": "Rok (opcionalno)",
+        "due_date_placeholder": "Izaberi datum",
+        "priority_label": "Prioritet (opcionalno)",
+        "priority_placeholder": "Izaberi prioritet",
+        "add_button": "Dodaj Zadatak",
+        "analysing": "Analiziram...",
+        "points": "boda",
+        "toggle_aria_label": "Označi \"{{title}}\" kao {{status}}",
+        "status_complete": "završen",
+        "status_incomplete": "nezavršen",
+        "more_options": "Više opcija",
+        "delete": "Obriši",
+        "added": {
+            "title": "Zadatak dodan!",
+            "description": "\"{{title}}\" je na vašoj listi."
+        },
+        "completed": {
+            "title": "Dobra Robota! 🎉",
+            "description": "Završili ste \"{{title}}\" i zaradili {{points}} bodova!"
+        },
+        "deleted": {
+            "title": "Zadatak obrisan."
+        }
+    },
+    "task_list": {
+        "title": "Lista Zadataka",
+        "no_tasks_title": "Nema zadataka!",
+        "no_tasks_description": "Dodajte svoj prvi zadatak da započnete.",
+        "active": "Aktivni",
+        "completed": "Završeni"
+    },
+    "achievements": {
+        "progress": "Napredak",
+        "title": "Postignuća",
+        "none": "Još nema otključanih postignuća. Završite zadatak da započnete!",
+        "unlocked": {
+            "title": "Postignuće Otključano! ✨"
+        },
+        "first_step": {
+            "name": "Prvi korak",
+            "description": "Završen prvi zadatak."
+        },
+        "serial_completer": {
+            "name": "Serijski kompletivač",
+            "description": "Završeno 5 zadataka."
+        },
+        "marathoner": {
+            "name": "Maratonac",
+            "description": "Završeno 25 zadataka ukupno."
+        },
+        "planner": {
+            "name": "Planer",
+            "description": "Kreirano 5 zadataka s rokom."
+        },
+        "priority_champion": {
+            "name": "Šampion prioriteta",
+            "description": "Završeno 5 zadataka visokog prioriteta."
+        },
+        "master_of_productivity": {
+            "name": "Majstor Produktivnosti",
+            "description": "Svi zadaci su završeni!"
+        }
+    },
+    "priority": {
+        "low": "Nizak",
+        "medium": "Srednji",
+        "high": "Visok"
+    },
+    "initial_tasks": {
+        "task1": "Kreirati prvi zadatak",
+        "task2": "Kupiti mlijeko",
+        "task3": "Napisati seminarski rad",
+        "task4": "Očistiti radni stol"
+    }
+}
