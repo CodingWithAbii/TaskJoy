@@ -36,8 +36,8 @@ You need to have Node.js and npm (or yarn/pnpm) installed on your machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://your-repository-url.com
-    cd your-project-directory
+    git clone https://github.com/CodingWithAbii/TaskJoy.git
+    cd TaskJoy
     ```
 
 2.  **Install NPM packages:**
